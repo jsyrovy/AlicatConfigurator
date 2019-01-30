@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Gases>
+  <Gas ID="0" Name="Air" />
+  <Gas ID="1" Name="Ar" />
+  <Gas ID="2" Name="CH4" />
+  <Gas ID="3" Name="CO" />
+  <Gas ID="4" Name="CO2" />
+  <Gas ID="5" Name="C2H6" />
+  <Gas ID="6" Name="H2" />
+  <Gas ID="7" Name="He" />
+  <Gas ID="8" Name="N2" />
+  <Gas ID="9" Name="N2O" />
+  <Gas ID="10" Name="Ne" />
+  <Gas ID="11" Name="O2" />
+  <Gas ID="12" Name="C3H8" />
+  <Gas ID="13" Name="nC4H10" />
+  <Gas ID="14" Name="C2H2" />
+  <Gas ID="15" Name="C2H4" />
+  <Gas ID="16" Name="iC4H10" />
+  <Gas ID="17" Name="Kr" />
+  <Gas ID="18" Name="Xe" />
+  <Gas ID="19" Name="SF6" />
+  <Gas ID="20" Name="C-25" />
+  <Gas ID="21" Name="C-10" />
+  <Gas ID="22" Name="C-8" />
+  <Gas ID="23" Name="C-2" />
+  <Gas ID="24" Name="C-75" />
+  <Gas ID="25" Name="HE-75" />
+  <Gas ID="26" Name="HE-25" />
+  <Gas ID="27" Name="A1025" />
+  <Gas ID="28" Name="Star29" />
+  <Gas ID="29" Name="P-5" />
+</Gases>
